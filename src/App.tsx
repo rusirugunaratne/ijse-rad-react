@@ -5,7 +5,7 @@ function App() {
         <>
             <Navbar/>
 
-            <header className="header">
+            <header className="header py-10">
                 <h1>Welcome to MySite</h1>
                 <p>Your go-to platform for awesome content.</p>
             </header>
